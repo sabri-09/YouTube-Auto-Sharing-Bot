@@ -47,7 +47,7 @@ This project automates sharing YouTube videos to social channels like **Facebook
 </p>
 <p align="center">
   <a href="https://appilot.app" target="_blank">
-    <img src="media/{{keyword}-banner}.png" alt="{{keyword}-architecture}" width="95%">
+    <img src="media/appilot-baner.png" alt="{{keyword}-architecture}" width="95%">
   </a>
 </p>
 
