@@ -2,17 +2,31 @@
 
 This project automates sharing YouTube videos to social channels like **Facebook**, **Twitter (X)**, and **Reddit** directly from Android devices and emulators. It removes copy-paste fatigue, enforces consistent captions/hashtags, and scales distribution across multiple accounts and devices with human-like pacing. The **YouTube Auto Sharing Bot** helps creators and teams boost reach, cut posting time, and keep brand messaging uniform.
 
+<p align="center">
+  <a href="https://Appilot.app" target="_blank">
+    <img src="media/appilot-baner.png" alt="Appilot Banner" width="100%">
+  </a>
 </p>
 <p align="center">
+  <a href="https://t.me/devpilot1" target="_blank">
+    <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>&nbsp;
+  <a href="https://wa.me/923249868488?text=Hi%20Appilot%2C%20I'm%20interested%20in%20automation." target="_blank">
+    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>&nbsp;
+  <a href="mailto:support@appilot.app" target="_blank">
+    <img src="https://img.shields.io/badge/Email-support@appilot.app-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>&nbsp;
   <a href="https://appilot.app" target="_blank">
-    <img src="media/appilot-baner.png" alt="{{keyword}-architecture}" width="95%">
+    <img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
 
 <p align="center"> 
    Created by Appilot, built to showcase our approach to Automation!<br>
-   <strong>If you are looking for custom YouTube Auto Sharing Bot, you've just found your team — Let’s Chat.👆👆</strong>
+   <strong>If you are looking for custom YouTube Content Performance Analyzer, you've just found your team — Let’s Chat.👆👆</strong>
 </p>
+
 
 ## Introduction
 
@@ -151,10 +165,17 @@ The rules engine validates character limits, required flairs, and NSFW flags bef
 **Can it attach thumbnails or use shortened links?**  
 Yes—upload local thumbnails where supported and auto-shorten URLs with UTM tagging for analytics.
 
-## Performance & Reliability Benchmarks (must)
+## Performance & Reliability Benchmarks
 
 - **Execution Speed:** Typical end-to-end post in 18–35s per platform per device (including app launch, compose, and confirmation) under normal network conditions.  
 - **Success Rate:** **95%** successful posts across platforms in steady-state runs with retry/backoff enabled.  
 - **Scalability:** Horizontally scales from a single phone to **300–1000** devices with queue-based sharding and per-device concurrency control.  
 - **Resource Efficiency:** Lightweight workers (~150–250MB RAM per device agent); CPU bounded primarily by emulator density and screenshot capture.  
 - **Error Handling:** Structured error taxonomy (rate-limit, captcha, network, auth); exponential backoff, circuit breakers, and automatic requeue; screenshot + log bundles for every failure.
+
+ ##
+<p align="center">
+<a href="https://cal.com/app-pilot-m8i8oo/30min" target="_blank">
+  <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Us-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call">
+</a>
+</p>
