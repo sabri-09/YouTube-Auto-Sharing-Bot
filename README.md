@@ -2,6 +2,13 @@
 
 This project automates sharing YouTube videos to social channels like **Facebook**, **Twitter (X)**, and **Reddit** directly from Android devices and emulators. It removes copy-paste fatigue, enforces consistent captions/hashtags, and scales distribution across multiple accounts and devices with human-like pacing. The **YouTube Auto Sharing Bot** helps creators and teams boost reach, cut posting time, and keep brand messaging uniform.
 
+</p>
+<p align="center">
+  <a href="https://appilot.app" target="_blank">
+    <img src="media/appilot-baner.png" alt="{{keyword}-architecture}" width="95%">
+  </a>
+</p>
+
 <p align="center"> 
    Created by Appilot, built to showcase our approach to Automation!<br>
    <strong>If you are looking for custom YouTube Auto Sharing Bot, you've just found your team — Let’s Chat.👆👆</strong>
@@ -44,12 +51,6 @@ This project automates sharing YouTube videos to social channels like **Facebook
 | **Secrets & Vault** | Encrypted storage for credentials/tokens; device-scoped secrets with rotation policies. |
 | **Reporting & Exports** | CSV/JSON exports of post results, timestamps, accounts, and device IDs for BI pipelines. |
 
-</p>
-<p align="center">
-  <a href="https://appilot.app" target="_blank">
-    <img src="media/appilot-baner.png" alt="{{keyword}-architecture}" width="95%">
-  </a>
-</p>
 
 ## How It Works 
 
